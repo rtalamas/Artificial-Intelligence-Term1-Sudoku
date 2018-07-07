@@ -1,3 +1,5 @@
+# Udacity Project Description:
+
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
